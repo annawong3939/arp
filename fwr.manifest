@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4245911705
+CRC: 4148822679
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1097b7793f06c9d679a9faf19eedc0c5
+    Hash: 7c92c5faef597da28e5bf80c33ebceff
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ee1fca119514e50d821781b450ca0618
+    Hash: 88db3d589c9bec4eb1f9fd4b45cdf71c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -18,8 +18,6 @@ ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
 - Class: 23
-  Script: {instanceID: 0}
-- Class: 28
   Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
@@ -39,5 +37,4 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Prefabs/PlumBlossomAnimated.prefab
-- Assets/Prefabs/2-sidedKini.prefab
 Dependencies: []
